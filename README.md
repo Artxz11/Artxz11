@@ -7,7 +7,7 @@ Me chamo Artur Ferri, tenho 17 anos e sou Capixaba, nascido na cidade de Cachoei
 
 👨‍💻 Todos os meus projetos estão públicos aqui na plataforma 
 
-📫 Como me encontrar: **artur.f.ferreira@aluno.senai.br*,
+📫 Como me encontrar: *ferriartur2@gmail.com*
 
 
 ---
