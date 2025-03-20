@@ -3,6 +3,11 @@
 **`Desenvolvedor `**
 
 Me chamo Artur Ferri, tenho 17 anos e sou Capixaba, nascido na cidade de Cachoeiro de Itapemirim. Estou no meu último ano do ensino médio, atualmente fazendo o curso de Desenvolvimento de Sistemas no Senai.
+🌱 Eu atualmente estou aprendendo **FORTRAN.**
+
+👨‍💻 Todos os meus projetos estão públicos aqui na plataforma [(nenhum por enquanto)]((nenhum por enquanto))
+
+📫 Como me encontrar: **artur.f.ferreira@aluno.senai.br*,
 
 
 ---
