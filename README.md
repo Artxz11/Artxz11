@@ -6,7 +6,7 @@ Me chamo Artur Ferri, tenho 17 anos e sou Capixaba, nascido na cidade de Cachoei
 
 🌱 Eu atualmente estou aprendendo **FORTRAN.**
 
-👨‍💻 Todos os meus projetos estão públicos aqui na plataforma 
+🕹 Todos os meus projetos estão públicos aqui na plataforma 
 
 📫 Como me encontrar: *ferriartur2@gmail.com*
 
