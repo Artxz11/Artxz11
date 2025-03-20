@@ -130,14 +130,12 @@ Me chamo Artur Ferri, tenho 17 anos e sou Capixaba, nascido na cidade de Cachoei
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
+      align="left"  
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
