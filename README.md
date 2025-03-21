@@ -1,4 +1,4 @@
-<h1 align="center">🌎 Artur Ferri</h1>
+<h1 align="center">🐱‍👤 Artur Ferri</h1>
 <h3 align="center">Me chamo Artur Ferri, tenho 17 anos e sou Capixaba, nascido na cidade de Cachoeiro de Itapemirim. Estou no meu último ano do ensino médio, atualmente fazendo o curso de Desenvolvimento de Sistemas no Senai.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artxz11&label=Profile%20views&color=0e75b6&style=flat" alt="artxz11" /> </p>
@@ -9,8 +9,6 @@
 
 - 📫 E-mail **artur.f.ferreiar@aluno.senai.br**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
