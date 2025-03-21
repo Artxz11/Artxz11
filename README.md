@@ -139,6 +139,8 @@ Me chamo Artur Ferri, tenho 17 anos e sou Capixaba, nascido na cidade de Cachoei
     height="200" 
     style="padding-right: 10px;" 
   />
+  
+  
 
 <img 
       align="left"  
